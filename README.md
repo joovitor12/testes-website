@@ -24,7 +24,7 @@ Projeto realizado para habilitar testes de sistema no site do Google, utilizando
 - Instale o [Node.js](https://nodejs.org/en/download/)
 - Abra o repositório em algum editor de texto (VSCode de preferência)
 - Abra o terminal do Editor de texto e execute o comando `npm install` para realizar a instação de todas as dependências
-- Navegue até a pasta do projeto (uninotes) --> cd uninotes
+- Navegue até a pasta do projeto (selenium-jest) --> cd selenium-jest
 - Execute o arquivo index.test.js com o comando --> npm run test 
 
 No fim, os três testes devem ter aparecido no terminal dando sinal de que foram executados e tenham retornado seus respectivos resultados.
